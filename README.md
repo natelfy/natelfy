@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Nathan — Étudiant & Développeur Freelance
 
-<!--
-**natelfy/natelfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Étudiant passionné par l’informatique, je développe des applications web, scripts Python et interfaces data.
+💼 Ouvert aux missions freelance (Fiverr, Malt) et aux opportunités pro !
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- 🌐 HTML / CSS / JavaScript / React
+- 🐍 Python / Flask / FastAPI
+- 🐘 PostgreSQL / SQLite / MongoDB
+- 📊 Pandas / Streamlit / DataViz
+- 🛠️ Git / Docker / GitHub Actions
+
+---
+
+## 🚧 Projets en cours
+*(Bientôt disponibles ici avec captures, démos et docs)*
+
+---
+
+## 📬 Me contacter
+- LinkedIn : [www.linkedin.com/in/nathan-eullaffroy](www.linkedin.com/in/nathan-eullaffroy-2422bb291)
+- Mail : nathan.eullaffroy@proton.me
