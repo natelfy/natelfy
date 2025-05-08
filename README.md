@@ -7,9 +7,9 @@
 
 ## 💻 Compétences
 - 🌐 HTML / CSS / JavaScript / React
-- 🐍 Python / Flask / FastAPI
-- 🐘 PostgreSQL / SQLite / MongoDB
-- 📊 Pandas / Streamlit / DataViz
+- 🐍 Python / Flask / API Platform
+- 🐘 PostgreSQL / MySQL / MongoDB
+- 📊 Pandas / Streamlit / NumPy
 - 🛠️ Git / Docker / GitHub Actions
 
 ---
